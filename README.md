@@ -6,15 +6,14 @@ Recreation Apollo AGC Block II Dual NOR IC
 A Dual 3-Input NOR Gate in a DIP-10 Package. 
 
 ## Pictures
-**Complete Board**
 ![Image](Files/Complete%20Board.jpg)
 
 ## Schematic
 [Dual NOR - Schematic .pdf](Files/Dual-NOR-Schematic.pdf)
 
 ## Pinout
+![Image](Files/dualNOR.jpg)  
 **From The Virtual AGC Project**
-![Image](Files/dualNOR.jpg)
 ## Bill of Materials (BOM)
 | **Component type** | **Reference** | **Description** | **Quantity** | **Sources** | Footprint |
 | :----------------- | :------------ | :-------------- | :----------- | :----------------------------- | :----|
