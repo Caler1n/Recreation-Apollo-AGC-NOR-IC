@@ -13,8 +13,8 @@ A Dual 3-Input NOR Gate in a DIP-10 Package.
 [Dual NOR - Schematic .pdf](Files/Dual-NOR-Schematic.pdf)
 
 ## Pinout
-[Dual NOR Pinout](Files/dualNOR.jpg)
-From The Virtual AGC Project
+** From The Virtual AGC Project **
+![Image](Files/dualNOR.jpg)
 ## Bill of Materials (BOM)
 | **Component type** | **Reference** | **Description** | **Quantity** | **Sources** | Footprint |
 | :----------------- | :------------ | :-------------- | :----------- | :----------------------------- | :----|
