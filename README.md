@@ -9,7 +9,7 @@ A Dual 3-Input NOR Gate in a DIP-10 Package.
 ![Image](Files/Complete%20Board.jpg)
 
 ## Schematic
-[Dual NOR - Schematic .pdf](Files/Dual-NOR-Schematic.pdf)
+[Dual NOR - Schematic .pdf](Files/Dual-NOR-Schematics.pdf)
 
 ## Pinout
 ![Image](Files/dualNOR.jpg)  
